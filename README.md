@@ -1,6 +1,6 @@
 # Excel-Keyword-Lookups
 User guide: [PDF](https://github.com/ITAutomator/Excel-Keyword-Lookups/blob/main/Excel%20Keyword%20Lookups.pdf)    
-Download: [ZIP](https://github.com/ITAutomator/Excel-Keyword-Lookups/archive/res/heads/main.zip)    
+Download: [ZIP](https://github.com/ITAutomator/Excel-Keyword-Lookups/archive/refs/heads/main.zip)   
 Website: [WWW](https://www.itautomator.com/Excel-Keyword-Lookups/)   
 (or click the green *Code* button (above) and click *Download Zip*)  
 
